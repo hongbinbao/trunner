@@ -1,3 +1,3 @@
-trunner
+"monkeyrunner" for tizen
 =======
-test client 
+tizenrunner -s script
